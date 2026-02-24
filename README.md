@@ -24,6 +24,6 @@ A mini computer vision preprocessing toolkit implemented in C++ using OpenCV.
 - Visual Studio
 
 ## How to Run
-1. Place `test.jpg` in executable directory
+1. Place `test.png` in executable directory
 2. Build in x64 Debug/Release
 3. Run program to see grid visualization
