@@ -1,0 +1,15 @@
+# Visual Studio
+.vs/
+*.vcxproj.user
+*.suo
+
+# Build folders
+x64/
+Debug/
+Release/
+
+# OpenCV DLL copies
+*.dll
+
+# Output images
+output_*.jpg

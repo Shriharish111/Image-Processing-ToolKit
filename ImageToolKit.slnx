@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ImageToolKit/ImageToolKit.vcxproj" Id="5daf121f-10d3-4292-b06a-1714afff8222" />
+</Solution>
